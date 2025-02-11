@@ -26,6 +26,7 @@ header {
 nav {
   display: flex;
   align-items: center;
+  justify-content: space-between;
 }
 
 .logo {
@@ -33,7 +34,7 @@ nav {
 }
 
 .liens{
-  margin-left: 880px;
+  margin-right: 50px;
 }
 
 .liens a {
@@ -72,19 +73,6 @@ ul{
 .lien-img li{
   padding-left: 50px;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 /* SECTION FOOTER */
 footer {
